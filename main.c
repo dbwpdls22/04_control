@@ -6,20 +6,20 @@
 int main(int argc, char *argv[]) {
 	
 	int i;
-	printf("Input an integer : ")
+	printf("Input an integer : ");
 	scanf("%d", &i);
 	
 	if (i>0)
 	{
-		printf("양수입니다.")
+		printf("양수입니다.");
 	 } 
-	 else if (i=0)
+	 else if (i==0)
 	 {
-	 	printf("0입니다.")
+	 	printf("0입니다.");
 	  } 
 	  else 
 	  {
-	  	printf("음수입니다.")
+	  	printf("음수입니다.");
 	   } 
 	
 	
