@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
 	
 	if (i>0)
 	{
-		printf("절대값은 %ㅑ 입니다.");
+		printf("절대값은 %i 입니다.");
 	 } 
 	 else
 	 {
